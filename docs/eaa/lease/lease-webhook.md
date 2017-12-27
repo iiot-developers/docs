@@ -175,6 +175,8 @@
 
 ** 流程 **
 
+![sequence](https://userfiles.iiot.io/businesses/DvxGN8MJp/k83vmzGNY)
+
 ```sequence
 
 IIOT平台->第三方目標網址: GET
