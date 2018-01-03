@@ -13,5 +13,8 @@
         - [櫃檯憑證參數](/eaa/lease/lease-variables.md)
         - [Webhook](/eaa/lease/lease-webhook.md)
 
+- IIOT IEvent Admin
+    - [識別證報到](/eaa/event/checkin.md)    
+
 - IIOT 電子票卡
     - [票卡可用變數](/eaa/pass/pass-variables.md)
