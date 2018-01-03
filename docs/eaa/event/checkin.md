@@ -28,7 +28,7 @@ Webhook的目標網址，系統會以`POST`方式將資料送往此目標網址�
 
 ![sequence](https://userfiles.iiot.io/businesses/DvxGN8MJp/k83vmzGNY)
 
-### Ｗebhook Date 範例
+### Ｗebhook Data 範例
 
 ```
 {
