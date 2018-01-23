@@ -10,6 +10,7 @@
     - [訂購模組](/eaa/booking/email-variables.md)
         - [Email可用參數](/eaa/booking/email-variables.md)
         - [優惠碼設定](/eaa/booking/coupon-codes.md)
+        - [訂購表單設定](/eaa/booking/dynamic-form.md)
     - [櫃檯APP](/eaa/lease/lease-variables.md)
         - [櫃檯憑證參數](/eaa/lease/lease-variables.md)
         - [Webhook](/eaa/lease/lease-webhook.md)
