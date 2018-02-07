@@ -10,6 +10,20 @@
 2. 根據設定，IIOT Cloud將用戶導向第三方認證網頁
 3. 認證完成，第三方認證網頁根據 base_grant_url 將用戶導回IIOT
 
+## 模組設定
+
+![](assets/imgs/2018-02-07-10-51-58.png)
+
+此為新版流程，舊版透過Redirect模組設定的流程仍可運作(Redirect -> Grant Redirect)
+
+![](assets/imgs/2018-02-07-10-53-30.png)
+
+設定認證頁面位置，以及secret
+
+![](assets/imgs/2018-02-07-10-54-00.png)
+
+設定允許上網後導向位置
+
 ## 參數說明
 
 **步驟2 IIOT Cloud 帶給第三方認證網頁的參數包括:**
